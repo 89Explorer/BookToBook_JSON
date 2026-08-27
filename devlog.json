@@ -50,7 +50,7 @@
     "type": "news",
     "date": "2026-09-02",
     "title": "그래서, 독서란 무엇일까요?",
-    "coverImageURL": null,
+    "coverImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_2/devlog2-20260827-cover.jpg?raw=true",
     "tag": "독서 이야기",
     "summaryBullets": [
       "독서는 결국 '소통'과 '지식 창출'이라는 두 가지 의미를 담고 있어요.",
@@ -62,31 +62,31 @@
       {
         "title": "🔁 지난 이야기, 이어서",
         "subtitle": null,
-        "sectionImageURL": null,
+        "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_2/devlog2-20260827-section1.jpg?raw=true",
         "content": "<p>지난 소식에서 이런 이야기를 남기고 갔었죠.</p><p>독서는 글쓴이와 대화하는 <b>소통의 행위</b>이자, 거기서 얻은 걸로 새로운 생각을 만드는 <b>지식의 행위</b>라고요.</p><p>근데 이 정의, 곰곰이 뜯어보면 조금 이상해요.</p><p>꼭 '책'이어야만 성립하는 정의는 아니거든요.</p><p>오늘은 이 질문을 조금 더 파고들어볼게요.</p>"
       },
       {
         "title": "📖 독서를 다시 정의해볼까요?",
         "subtitle": null,
-        "sectionImageURL": null,
+        "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_2/devlog2-20260827-section2.jpg?raw=true",
         "content": "<p>독서(讀書)는 한자 그대로 '읽을 독'과 '글 서', 글을 읽는다는 뜻이에요.</p><p>조금 더 풀어보면, 여기엔 두 가지 의미가 담겨 있어요.</p><p><span style=\"background-color:#FFF3B0\">글쓴이와 나누는 소통</span>, 그리고 <span style=\"background-color:#FFF3B0\">그걸 바탕으로 새로운 생각을 만드는 지식의 행위</span>예요.</p><p>그럼 이 정의, 정말 '책'에만 해당하는 걸까요?</p>"
       },
       {
         "title": "🍲 이것도 독서일까요?",
         "subtitle": null,
-        "sectionImageURL": null,
+        "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_2/devlog2-20260827-section3.jpg?raw=true",
         "content": "<p>예를 들어볼게요.</p><p>돼지고기 듬뿍 넣은 김치찌개가 먹고 싶어서 '김치찌개 레시피'를 검색해요.</p><p>수많은 블로그 중 눈길 가는 썸네일과 제목을 보고 하나를 고르고, 재료와 조리 과정을 읽고 따라 만들어요. 이건 독서일까요?</p><p>또 하나, 얼마 전 청소기가 고장 나서 새로 하나 샀어요.</p><p>유튜브와 블로그, 후기 댓글까지 찾아보고 결정했고, 사용설명서를 읽으며 부품을 조립하고 조작법을 익혔어요. 이것도 독서일까요?</p><p>마지막으로, 여름 여행을 준비할 때는 어떤가요?</p><p>인스타그램과 블로그로 숙소 후기를 확인하고, 근처 맛집 메뉴와 가격을 비교해서 일정을 짜죠. 이것도 독서일까요?</p><p>생각해보면, 우리는 매일 이런 '독서'를 하고 있었던 거예요.</p>"
       },
       {
         "title": "⏰ 어쩌면 우리는 하루 종일 독서 중이에요",
         "subtitle": null,
-        "sectionImageURL": null,
+        "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_2/devlog2-20260827-section4.jpg?raw=true",
         "content": "<p>유튜브 썸네일을 보고 누를지 말지 고민하는 것도, 인스타그램 게시물을 훑어보는 것도, 뉴스 기사를 꼼꼼히 읽는 것도 전부 넓은 의미의 독서예요.</p><p>그럼 다시 처음 질문으로 돌아가볼게요. 왜 10명 중 6명은 '책'을 안 읽을까요?</p><p><span style=\"background-color:#FFF3B0\">책을 안 읽는 게 아니라, 읽는 매체가 옮겨갔을 뿐</span>일지도 몰라요.</p><p>과거엔 책이 거의 유일한 선택지였지만, 지금은 그렇지 않으니까요.</p>"
       },
       {
         "title": "🤔 그래도 왜 '책'을 읽어야 할까요?",
         "subtitle": null,
-        "sectionImageURL": null,
+        "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_2/devlog2-20260827-section5.jpg?raw=true",
         "content": "<p>그럼에도 책을 읽어야 하는 이유가 있다면 뭘까요?</p><p>모르는 게 있으면 AI에게 물어보면 되는데, 굳이?</p><p>책은 <b>한정된 분량과 문장으로 내 생각을 온전히 전달하는 연습장</b> 같아요.</p><p>글을 읽고, 머릿속에서 이미지로 그려보고, 그걸 다시 내 언어로 풀어 설명하는 연습이죠.</p><p><span style=\"background-color:#FFF3B0\">긴 호흡의 글을 읽고 이해하고 전달하는 힘</span>은, AI 시대에도 여전히 — 어쩌면 더 중요해질 거라고 생각해요.</p><p>이건 저희가 찾은 답이에요.</p><p>정답이라고 말씀드리는 건 아니에요.</p><p><span style=\"background-color:#FFF3B0\">여러분만의 답은 분명 다를 거예요.</span></p><p>북투북에서 책 한 페이지를 펼치며, 여러분만의 답을 한번 찾아보세요.</p>"
       }
     ]
