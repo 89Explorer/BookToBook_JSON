@@ -1,48 +1,94 @@
 [
   {
-  "id": "news-2026-08-27-intro",
-  "type": "news",
-  "date": "2026-08-27",
-  "title": "북투북, 시작합니다",
-  "coverImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog-2026-08-25-cover.png?raw=true",
-  "tag": "첫 소식",
-  "summaryBullets": [
-    "10명 중 6명은 1년에 책 한 권도 읽지 않는대요.",
-    "책이 유튜브, 인스타그램, 블로그로 대체된 자연스러운 변화라고 봤어요.",
-    "그래서 책에 대한 접근성을 낮추는 방향을 고민했어요.",
-    "나만의 언어를 넘어 타인의 언어로도 책을 이해하는 앱, 북투북을 소개합니다."
-  ],
-  "body": [
-    {
-      "title": "🔢 10, 6, 1",
-      "subtitle": null,
-      "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_1/devlog1-20260827-section1.png?raw=true",
-      "content": "<p>안녕하세요, 북투북 서비스 팀입니다.</p><p>10, 6, 1</p><p>이게 무슨 뜻인지 아시나요?</p><p><span style=\"background-color:#FFF3B0\">10명 중 6명은 1년에 책을 단 한 권도 읽지 않는다</span>는 뜻이에요.</p><p>북투북 서비스 팀도 1년에 1권 안 읽는.. 크흠..</p><p>그런 저희였기 때문에, 오히려 더 궁금했어요.</p><p>왜 이렇게까지 책 한 권이 부담스러운 일이 됐을까요?</p>"
-    },
-    {
-      "title": "📖 독서란, 결국 소통이에요",
-      "subtitle": "다음 소식에서 더 깊이 다뤄볼게요",
-      "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_1/devlog1-20260827-section2.jpg?raw=true",
-      "content": "<p>독서는 글쓴이와 대화를 나누는 <b>소통의 행위</b>이자, 거기서 얻은 것으로 새로운 생각을 만들어내는 <b>지식의 행위</b>예요.</p><p>이 정의를 곰곰이 따져보면, 우리는 사실 하루에도 몇 번씩 이런 독서를 하고 있어요.</p><p>다만 그 대상이 '책'이 아니었을 뿐이죠.</p>"
-    },
-    {
-      "title": "📉 줄어드는 게 아니라, 옮겨간 거예요",
-      "subtitle": null,
-      "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_1/devlog1-20260827-section3.jpg?raw=true",
-      "content": "<p>과거에는 글을 읽고 지식을 얻고 소통하려면 책이라는 매체에 기댈 수밖에 없었어요.</p><p>지금은 유튜브, 인스타그램, 블로그가 그 자리를 대신하고 있죠.</p><p><span style=\"background-color:#FFF3B0\">그러니 책 읽는 시간이 줄어드는 건, 어쩌면 아주 자연스러운 변화</span>일지도 몰라요.</p>"
-    },
-    {
-      "title": "🚪 그래서 문을 낮추고 싶었어요",
-      "subtitle": null,
-      "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_1/devlog1-20260827-section4.jpg?raw=true",
-      "content": "<p>책이 덜 읽히는 이유가 매체의 변화 때문이라면, 답은 책을 억지로 다시 1순위로 올려놓는 게 아니라고 생각했어요.</p><p><b>책 앞에 놓인 문턱을 조금 낮추는 것</b>, 그게 저희가 고민한 방향이에요.</p><p>구체적으로 어떻게 낮출지는, 앞으로 하나씩 만들어가면서 보여드릴게요.</p>"
-    },
-    {
-      "title": "🔭 나만의 언어를 넘어서",
-      "subtitle": null,
-      "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_1/devlog1-20260827-section5.jpg?raw=true",
-      "content": "<p>지금 북투북은 한 권의 책을 나만의 언어로 기록하는 것부터 시작해요.</p><p>하지만 저희가 그려보는 모습은 그 이상이에요.</p><p><b>내가 이해한 책을, 다른 사람이 이해한 언어로도 다시 읽어보는 것</b>. 그렇게 하나의 책을 더 깊이, 더 여러 겹으로 이해하는 경험을 만들어가고 싶어요.</p><p>북투북과 함께, 오늘 한 페이지부터 시작해보세요. 🙇</p>"
-    }
-  ]
-}
+    "id": "news-2026-08-27-intro",
+    "type": "news",
+    "date": "2026-08-27",
+    "title": "북투북, 시작합니다",
+    "coverImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog-2026-08-25-cover.png?raw=true",
+    "tag": "첫 소식",
+    "summaryBullets": [
+      "10명 중 6명은 1년에 책 한 권도 읽지 않는대요.",
+      "책이 유튜브, 인스타그램, 블로그로 대체된 자연스러운 변화라고 봤어요.",
+      "그래서 책에 대한 접근성을 낮추는 방향을 고민했어요.",
+      "나만의 언어를 넘어 타인의 언어로도 책을 이해하는 앱, 북투북을 소개합니다."
+    ],
+    "body": [
+      {
+        "title": "🔢 10, 6, 1",
+        "subtitle": null,
+        "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_1/devlog1-20260827-section1.png?raw=true",
+        "content": "<p>안녕하세요, 북투북 서비스 팀입니다.</p><p>10, 6, 1</p><p>이게 무슨 뜻인지 아시나요?</p><p><span style=\"background-color:#FFF3B0\">10명 중 6명은 1년에 책을 단 한 권도 읽지 않는다</span>는 뜻이에요.</p><p>북투북 서비스 팀도 1년에 1권 안 읽는.. 크흠..</p><p>그런 저희였기 때문에, 오히려 더 궁금했어요.</p><p>왜 이렇게까지 책 한 권이 부담스러운 일이 됐을까요?</p>"
+      },
+      {
+        "title": "📖 독서란, 결국 소통이에요",
+        "subtitle": "다음 소식에서 더 깊이 다뤄볼게요",
+        "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_1/devlog1-20260827-section2.jpg?raw=true",
+        "content": "<p>독서는 글쓴이와 대화를 나누는 <b>소통의 행위</b>이자, 거기서 얻은 것으로 새로운 생각을 만들어내는 <b>지식의 행위</b>예요.</p><p>이 정의를 곰곰이 따져보면, 우리는 사실 하루에도 몇 번씩 이런 독서를 하고 있어요.</p><p>다만 그 대상이 '책'이 아니었을 뿐이죠.</p>"
+      },
+      {
+        "title": "📉 줄어드는 게 아니라, 옮겨간 거예요",
+        "subtitle": null,
+        "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_1/devlog1-20260827-section3.jpg?raw=true",
+        "content": "<p>과거에는 글을 읽고 지식을 얻고 소통하려면 책이라는 매체에 기댈 수밖에 없었어요.</p><p>지금은 유튜브, 인스타그램, 블로그가 그 자리를 대신하고 있죠.</p><p><span style=\"background-color:#FFF3B0\">그러니 책 읽는 시간이 줄어드는 건, 어쩌면 아주 자연스러운 변화</span>일지도 몰라요.</p>"
+      },
+      {
+        "title": "🚪 그래서 문을 낮추고 싶었어요",
+        "subtitle": null,
+        "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_1/devlog1-20260827-section4.jpg?raw=true",
+        "content": "<p>책이 덜 읽히는 이유가 매체의 변화 때문이라면, 답은 책을 억지로 다시 1순위로 올려놓는 게 아니라고 생각했어요.</p><p><b>책 앞에 놓인 문턱을 조금 낮추는 것</b>, 그게 저희가 고민한 방향이에요.</p><p>구체적으로 어떻게 낮출지는, 앞으로 하나씩 만들어가면서 보여드릴게요.</p>"
+      },
+      {
+        "title": "🔭 나만의 언어를 넘어서",
+        "subtitle": null,
+        "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_1/devlog1-20260827-section5.jpg?raw=true",
+        "content": "<p>지금 북투북은 한 권의 책을 나만의 언어로 기록하는 것부터 시작해요.</p><p>하지만 저희가 그려보는 모습은 그 이상이에요.</p><p><b>내가 이해한 책을, 다른 사람이 이해한 언어로도 다시 읽어보는 것</b>. 그렇게 하나의 책을 더 깊이, 더 여러 겹으로 이해하는 경험을 만들어가고 싶어요.</p><p>북투북과 함께, 오늘 한 페이지부터 시작해보세요. 🙇</p>"
+      }
+    ]
+  },
+  {
+    "id": "news-2026-09-02-what-is-reading",
+    "type": "news",
+    "date": "2026-09-02",
+    "title": "그래서, 독서란 무엇일까요?",
+    "coverImageURL": null,
+    "tag": "독서 이야기",
+    "summaryBullets": [
+      "독서는 결국 '소통'과 '지식 창출'이라는 두 가지 의미를 담고 있어요.",
+      "이 정의로 보면, 우리는 이미 하루 종일 독서를 하고 있어요.",
+      "그래서 책을 덜 읽는 건 게을러서가 아니라, 매체가 옮겨간 자연스러운 변화예요.",
+      "그럼에도 '책'을 읽어야 하는 이유를 이야기해볼게요."
+    ],
+    "body": [
+      {
+        "title": "🔁 지난 이야기, 이어서",
+        "subtitle": null,
+        "sectionImageURL": null,
+        "content": "<p>지난 소식에서 이런 이야기를 남기고 갔었죠.</p><p>독서는 글쓴이와 대화하는 <b>소통의 행위</b>이자, 거기서 얻은 걸로 새로운 생각을 만드는 <b>지식의 행위</b>라고요.</p><p>근데 이 정의, 곰곰이 뜯어보면 조금 이상해요.</p><p>꼭 '책'이어야만 성립하는 정의는 아니거든요.</p><p>오늘은 이 질문을 조금 더 파고들어볼게요.</p>"
+      },
+      {
+        "title": "📖 독서를 다시 정의해볼까요?",
+        "subtitle": null,
+        "sectionImageURL": null,
+        "content": "<p>독서(讀書)는 한자 그대로 '읽을 독'과 '글 서', 글을 읽는다는 뜻이에요.</p><p>조금 더 풀어보면, 여기엔 두 가지 의미가 담겨 있어요.</p><p><span style=\"background-color:#FFF3B0\">글쓴이와 나누는 소통</span>, 그리고 <span style=\"background-color:#FFF3B0\">그걸 바탕으로 새로운 생각을 만드는 지식의 행위</span>예요.</p><p>그럼 이 정의, 정말 '책'에만 해당하는 걸까요?</p>"
+      },
+      {
+        "title": "🍲 이것도 독서일까요?",
+        "subtitle": null,
+        "sectionImageURL": null,
+        "content": "<p>예를 들어볼게요.</p><p>돼지고기 듬뿍 넣은 김치찌개가 먹고 싶어서 '김치찌개 레시피'를 검색해요.</p><p>수많은 블로그 중 눈길 가는 썸네일과 제목을 보고 하나를 고르고, 재료와 조리 과정을 읽고 따라 만들어요. 이건 독서일까요?</p><p>또 하나, 얼마 전 청소기가 고장 나서 새로 하나 샀어요.</p><p>유튜브와 블로그, 후기 댓글까지 찾아보고 결정했고, 사용설명서를 읽으며 부품을 조립하고 조작법을 익혔어요. 이것도 독서일까요?</p><p>마지막으로, 여름 여행을 준비할 때는 어떤가요?</p><p>인스타그램과 블로그로 숙소 후기를 확인하고, 근처 맛집 메뉴와 가격을 비교해서 일정을 짜죠. 이것도 독서일까요?</p><p>생각해보면, 우리는 매일 이런 '독서'를 하고 있었던 거예요.</p>"
+      },
+      {
+        "title": "⏰ 어쩌면 우리는 하루 종일 독서 중이에요",
+        "subtitle": null,
+        "sectionImageURL": null,
+        "content": "<p>유튜브 썸네일을 보고 누를지 말지 고민하는 것도, 인스타그램 게시물을 훑어보는 것도, 뉴스 기사를 꼼꼼히 읽는 것도 전부 넓은 의미의 독서예요.</p><p>그럼 다시 처음 질문으로 돌아가볼게요. 왜 10명 중 6명은 '책'을 안 읽을까요?</p><p><span style=\"background-color:#FFF3B0\">책을 안 읽는 게 아니라, 읽는 매체가 옮겨갔을 뿐</span>일지도 몰라요.</p><p>과거엔 책이 거의 유일한 선택지였지만, 지금은 그렇지 않으니까요.</p>"
+      },
+      {
+        "title": "🤔 그래도 왜 '책'을 읽어야 할까요?",
+        "subtitle": null,
+        "sectionImageURL": null,
+        "content": "<p>그럼에도 책을 읽어야 하는 이유가 있다면 뭘까요?</p><p>모르는 게 있으면 AI에게 물어보면 되는데, 굳이?</p><p>책은 <b>한정된 분량과 문장으로 내 생각을 온전히 전달하는 연습장</b> 같아요.</p><p>글을 읽고, 머릿속에서 이미지로 그려보고, 그걸 다시 내 언어로 풀어 설명하는 연습이죠.</p><p><span style=\"background-color:#FFF3B0\">긴 호흡의 글을 읽고 이해하고 전달하는 힘</span>은, AI 시대에도 여전히 — 어쩌면 더 중요해질 거라고 생각해요.</p><p>이건 저희가 찾은 답이에요.</p><p>정답이라고 말씀드리는 건 아니에요.</p><p><span style=\"background-color:#FFF3B0\">여러분만의 답은 분명 다를 거예요.</span></p><p>북투북에서 책 한 페이지를 펼치며, 여러분만의 답을 한번 찾아보세요.</p>"
+      }
+    ]
+  }
 ]
