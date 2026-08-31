@@ -46,9 +46,9 @@
     ]
   },
   {
-    "id": "news-2026-09-02-what-is-reading",
+    "id": "news-2026-08-30-what-is-reading",
     "type": "news",
-    "date": "2026-09-02",
+    "date": "2026-08-30",
     "title": "그래서, 독서란 무엇일까요?",
     "coverImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_2/devlog2-20260827-cover.jpg?raw=true",
     "tag": "독서 이야기",
@@ -90,5 +90,52 @@
         "content": "<p>그럼에도 책을 읽어야 하는 이유가 있다면 뭘까요?</p><p>모르는 게 있으면 AI에게 물어보면 되는데, 굳이?</p><p>책은 <b>한정된 분량과 문장으로 내 생각을 온전히 전달하는 연습장</b> 같아요.</p><p>글을 읽고, 머릿속에서 이미지로 그려보고, 그걸 다시 내 언어로 풀어 설명하는 연습이죠.</p><p><span style=\"background-color:#FFF3B0\">긴 호흡의 글을 읽고 이해하고 전달하는 힘</span>은, AI 시대에도 여전히 — 어쩌면 더 중요해질 거라고 생각해요.</p><p>이건 저희가 찾은 답이에요.</p><p>정답이라고 말씀드리는 건 아니에요.</p><p><span style=\"background-color:#FFF3B0\">여러분만의 답은 분명 다를 거예요.</span></p><p>북투북에서 책 한 페이지를 펼치며, 여러분만의 답을 한번 찾아보세요.</p>"
       }
     ]
-  }
+  },
+  {
+  "id": "news-2026-08-31-choosing-a-book",
+  "type": "news",
+  "date": "2026-08-31",
+  "title": "독서의 첫걸음, 책 고르기",
+  "coverImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_3/devlog3-20260831-cover.jpg?raw=true",
+  "tag": "독서 이야기",
+  "summaryBullets": [
+    "책 고르기가 어려운 건, 펼쳐보기 전엔 나와 맞는 책인지 알 수 없기 때문이에요.",
+    "그래서 읽다가 그만두면 지금까지 읽은 시간이 아까워서 억지로 계속 읽게 돼요.",
+    "관심 있는 분야인지, 좋아하는 저자인지로 먼저 골라볼 수 있어요.",
+    "쉬운 단어와 적은 분량으로 쓰였는지도 좋은 기준이 돼요.",
+    "북투북 팀은 추천사와 '들어가는 말'을 먼저 읽어보는 방법을 씁니다."
+  ],
+  "body": [
+    {
+      "title": "👋 첫걸음은 '고르기'예요",
+      "subtitle": null,
+      "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_3/devlog3-20260831-section1.jpg?raw=true",
+      "content": "<p>지난 소식에서 독서는 결국 글쓴이와 나누는 대화라고 말씀드렸었죠.</p><p>그럼 대화에도 잘 맞는 상대가 있듯이, 책에도 나와 잘 맞는 책이 있지 않을까요?</p><p>오늘은 그 첫걸음, <b>책 고르기</b> 이야기를 해볼게요.</p>"
+    },
+    {
+      "title": "😖 근데 고르는 게 생각보다 어려워요",
+      "subtitle": null,
+      "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_3/devlog3-20260831-section2.jpg?raw=true",
+      "content": "<p>같은 주제를 얘기해도 재밌게 풀어주는 사람이 있고, 그렇지 않은 사람이 있잖아요.</p><p>책도 똑같아요. 근데 문제는, <span style=\"background-color:#FFF3B0\">펼쳐보기 전까진 나랑 잘 맞는 책인지 알 방법이 없다</span>는 거예요.</p><p>그렇다고 읽다가 그만두자니, 지금까지 읽은 시간이 아까워서 억지로 끝까지 붙잡고 있게 되죠.</p><p>저희도 표지만 보고 골랐다가 몇 장 못 넘기고 덮은 책, 몇 권씩 있어요.</p><p>그래서 준비했어요. 책을 고를 때 참고하면 좋을 몇 가지 기준을요.</p>"
+    },
+    {
+      "title": "❤️ 무엇을 고를까 — 취향으로 고르기",
+      "subtitle": null,
+      "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_3/devlog3-20260831-section3.jpg?raw=true",
+      "content": "<p>가장 먼저는 <b>내가 관심 있는 분야</b>인지 보는 거예요. 평소 궁금했던 주제라면, 조금 어려워도 끝까지 읽어낼 힘이 생겨요.</p><p>또 하나는 <b>평소 호감이 있던 사람</b>이 쓴 책인지예요. 좋아하는 유튜버, 강연자, 작가가 쓴 책이라면, 그 사람의 말투를 이미 알고 있어서 훨씬 편하게 읽혀요.</p>"
+    },
+    {
+      "title": "📏 어떻게 고를까 — 난이도로 고르기",
+      "subtitle": null,
+      "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_3/devlog3-20260831-section4.JPG?raw=true",
+      "content": "<p>같은 주제라도 <b>쉬운 단어와 그림으로 풀어썼는지</b>를 살펴보세요.</p><p>또 <b>적은 페이지로 간결하게 쓰인 책</b>인지도 좋은 기준이 돼요.</p><p><span style=\"background-color:#FFF3B0\">완독의 부담이 적을수록, 다음 책으로 넘어갈 힘도 더 잘 생겨요.</span></p>"
+    },
+    {
+      "title": "🔎 북투북 팀만의 팁",
+      "subtitle": null,
+      "sectionImageURL": "https://github.com/89Explorer/BookToBook_JSON/blob/main/images/devlog/devlog_3/devlog3-20260831-section5.JPG?raw=true",
+      "content": "<p>마지막으로 저희 팀이 실제로 쓰는 방법 하나를 알려드릴게요.</p><p>책을 펼치기 전에, <b>뒤표지의 추천사</b>와 <b>앞쪽의 '들어가는 말'이나 '글쓴이의 말'</b>을 먼저 읽어봐요.</p><p>여기엔 책의 대략적인 내용은 물론, <span style=\"background-color:#FFF3B0\">글쓴이가 어떤 말투로, 어떤 느낌으로 이야기를 풀어가는지</span>가 그대로 담겨 있거든요.</p><p>몇 문단만 읽어봐도 이 책이 나랑 맞을지, 감이 잡혀요.</p><p>다음에 책을 고르실 때, 한번 이 방법도 시도해보세요. 🙇</p>"
+    }
+  ]
+}
 ]
